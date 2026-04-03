@@ -3,7 +3,7 @@
 
 <head>
 ⇝   <title> WELCOME TO MY WEBSITE</title>
-<link rel="stylesheet" href="style1.css">
+<link rel="stylesheet" href="Style.css">
 </head> 
 
 <body>
